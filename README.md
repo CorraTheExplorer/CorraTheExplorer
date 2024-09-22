@@ -1,4 +1,4 @@
-Hi, I'm @CorraTheExplorer
+Hi, I'm [@CorraTheExplorer](https://github.com/CorraTheExplorer)
 
 #### Interests:
 * Machine Learning
