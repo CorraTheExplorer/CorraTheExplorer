@@ -1,7 +1,8 @@
-Hi, I'm [@CorraTheExplorer](https://github.com/CorraTheExplorer)
+Hi, I'm [Corey](https://github.com/CorraTheExplorer) ,
 
 #### Interests:
 * Machine Learning
+* AI/ Agents
 * Cloud Solutions
 * robotics/ Automation
 
