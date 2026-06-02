@@ -2,14 +2,13 @@ Hi, I'm [@CorraTheExplorer](https://github.com/CorraTheExplorer)
 
 #### Interests:
 * Machine Learning
-* Natural Language Processing
+* Cloud Solutions
 * robotics/ Automation
 
-#### I'm currently a Computer Science student with a major in Data Science.
+#### I'm currently a Computer Science student with a major in Artificial Intelligence. Bring on 2027!!
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 📫 Get in cont with me at contact@coreywilford.com
+
 
 <!---
 CorraTheExplorer/CorraTheExplorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
